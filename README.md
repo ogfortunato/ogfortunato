@@ -12,7 +12,7 @@
   <img align="center" alt="Ota-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ota-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ota-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">  
-  <img align="right" alt="hi-there" height="110" style="border-radius:50px;" src="https://i.imgur.com/nd4lCBE.gif">
+  <img align="right" alt="hi-there" height="100" style="border-radius:50px;" src="https://i.imgur.com/nd4lCBE.gif">
 </div>
   
   ##
