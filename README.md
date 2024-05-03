@@ -1,4 +1,4 @@
-## Olá! Eu sou o Otávio Fortunato, desenvolvedor aficionado em programar sempre mais 
+## Programando e relaxando
 <div align="center">
   <a href="https://github.com/ogfortunato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogfortunato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
